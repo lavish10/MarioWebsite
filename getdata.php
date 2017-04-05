@@ -1,6 +1,6 @@
 <?php
 
-$conn=mysqli_connect("localhost","root","","cybersrishti");
+$conn=mysqli_connect("localhost","","","");
 
 	$id=$_GET['id'];
 	
